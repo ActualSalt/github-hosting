@@ -1,1 +1,0 @@
-import {default as home} from './public/';
